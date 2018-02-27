@@ -1,0 +1,30 @@
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\bin\Debug\ISMPaint.exe.config
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\bin\Debug\ISMPaint.exe
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\bin\Debug\ISMPaint.pdb
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.GraphicEditor.resources
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.Properties.Resources.resources
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.csproj.GenerateResource.Cache
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.exe
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.pdb
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101\ISMPaint\obj\Debug\ISMPaint.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.GraphicEditor.resources
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.Properties.Resources.resources
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.csproj.GenerateResource.Cache
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.exe
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\obj\Debug\ISMPaint.pdb
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\bin\Debug\ISMPaint.exe.config
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\bin\Debug\ISMPaint.exe
+C:\Users\Константин\Desktop\ISMPaint-master-891c023cbf0e9e90c4170dd868122cb7210bf101 — копия (3)\ISMPaint\bin\Debug\ISMPaint.pdb
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\bin\Debug\ISMPaint.exe.config
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\bin\Debug\ISMPaint.exe
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\bin\Debug\ISMPaint.pdb
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.GraphicEditor.resources
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.Properties.Resources.resources
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.csproj.GenerateResource.Cache
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.exe
+C:\Users\Константин\Desktop\RoadMap\ISMPaint\obj\Debug\ISMPaint.pdb
